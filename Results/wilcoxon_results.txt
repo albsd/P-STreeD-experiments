@@ -1,0 +1,12 @@
+Results of Wilcoxon Signed-Rank Test
+
+P-STreeD vs Murtree:
+d4n15: Stat=14.0, p-value=0.0008392333984375, Median Difference=-0.315913654, Faster Algorithm=P-STreeD
+d5n24: Stat=63.0, p-value=0.34654998779296875, Median Difference=-0.08291432799999998, Faster Algorithm=P-STreeD
+d5n31: Stat=35.0, p-value=0.02684783935546875, Median Difference=-0.6611861109999999, Faster Algorithm=P-STreeD
+
+P-STreeD vs STreeD:
+d4n15: Stat=1.0, p-value=1.52587890625e-05, Median Difference=-0.26531738050000003, Faster Algorithm=P-STreeD
+d5n24: Stat=26.0, p-value=0.0076904296875, Median Difference=-2.1733938575, Faster Algorithm=P-STreeD
+d5n31: Stat=30.0, p-value=0.0138702392578125, Median Difference=-1.5193024395, Faster Algorithm=P-STreeD
+
